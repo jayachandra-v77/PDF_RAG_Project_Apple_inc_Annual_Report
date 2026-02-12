@@ -4,22 +4,22 @@ This project implements a Retrieval-Augmented Generation (RAG) system that allow
 
 🚀 Features
 -------------------------------------------------------------------
-> Load and process large PDF files
-> Chunk documents and generate embeddings
-> Store embeddings in Pinecone vector database
-> Retrieve relevant content using similarity search
-> Generate accurate answers using OpenAI LLM
-> Prevent hallucinations by answering only from document context
+- Load and process large PDF files
+- Chunk documents and generate embeddings
+- Store embeddings in Pinecone vector database
+- Retrieve relevant content using similarity search
+- Generate accurate answers using OpenAI LLM
+- Prevent hallucinations by answering only from document context
 
 
 Tech Stack
 -------------------------------------------------------------------
-> Python
-> LangChain
-> OpenAI (Embeddings & LLM)
-> Pinecone (Vector Database)
-> VS Code
-> Git & GitHub
+- Python
+- LangChain
+- OpenAI (Embeddings & LLM)
+- Pinecone (Vector Database)
+- VS Code
+- Git & GitHub
 
 Project Structure
 -------------------------------------------------------------------
@@ -51,11 +51,11 @@ RAG_Practice2/
 📌 Future Enhancements
 ------------------------------------------------------------------
 
-> Streamlit UI for chat interface
-> Multi-PDF support
-> Source citations with page numbers
-> Conversational memory
-> Cost optimization
+- Streamlit UI for chat interface
+- Multi-PDF support
+- Source citations with page numbers
+- Conversational memory
+- Cost optimization
 
 
 👨‍💻 Author
