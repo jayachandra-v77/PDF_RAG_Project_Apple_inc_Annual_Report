@@ -1,4 +1,4 @@
-## PDF RAG Application – Apple 2024 Annual Report
+## PDF RAG Application – Apple Annual Report
 
 This project implements a Retrieval-Augmented Generation (RAG) system that allows users to ask questions about a PDF document (Apple Inc. 2024 Annual Report) and get accurate answers using OpenAI + Pinecone.
 
